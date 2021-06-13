@@ -1,3 +1,3 @@
 # Cryptocurrencies
 
-![](https://github.com/MarielaKaradzhova/Cryptocurrencies/blob/main/crypto_clustering.png)
+![](https://github.com/MarielaKaradzhova/Cryptocurrencies/blob/main/resources/crypto_clustering.png)
