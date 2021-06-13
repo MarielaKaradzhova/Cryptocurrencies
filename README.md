@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Purpose of Project
-Using unsipervised machine learning algorithms to automate groupings, trends and other valuable information that could help to display data for cryptocurrencies to a firm interested in investing.
+Using unsipervised machine learning algorithms to automate groupings, trends and other valuable information that could help to display data for cryptocurrencies to a firm interested in investing. Since the groups of customers are unknown prior to analysis, the best method to analyze the data is to use unsupervised machine learning to find out groups and trends in the dataset used for this project.
 
 ## Visualizatioins
 
